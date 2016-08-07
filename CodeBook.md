@@ -37,6 +37,8 @@ variables from the time and frequency domain. See 'features_info.txt' for more d
 7. Mag = magnitude of movement
 8. f = frequency
 
+## Steps
+
 Step 1. All of the files needed were read, column names were assigned in order for us to merge one data set.
 Step 2. Use a logical vector to extract only the mean and standard deviation from the data set.
 Step 3. Include activity names by merging the activity_labels.txt information with the data set created.
