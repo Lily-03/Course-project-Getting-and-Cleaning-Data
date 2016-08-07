@@ -18,14 +18,14 @@ variables from the time and frequency domain. See 'features_info.txt' for more d
 
 ## Files used
 
-test/subject_test.txt
-train/subject_train.txt
-test/X_test.txt
-train/X_train.txt
-test/y_test.txt
-train/y_train.txt
-features.txt
-activity_labels.txt
+1. test/subject_test.txt
+2. train/subject_train.txt
+3. test/X_test.txt
+4. train/X_train.txt
+5. test/y_test.txt
+6. train/y_train.txt
+7. features.txt
+8. activity_labels.txt
 
 ## Variables (this changes of name were made during step 4)
 1. t = time
